@@ -1,0 +1,114 @@
+.projects{
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--color_back);
+   
+}
+
+.align_projects{
+    width: 50%;
+     
+}
+
+.text_project{
+   color: var(--color_darkblue);
+   line-height: 30px;
+   text-align: center;
+   margin-top: 180px;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-bottom: 100px;
+   
+  
+}
+.text_project h1{
+    font-size: 30px;
+    color: var(--color_primary);
+    overflow-y: hidden;
+}
+.icon_project{
+    width:80%;
+    height: 300px;
+    margin-top: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    color: var(--color_primary);
+    overflow-y: hidden;
+}
+
+.sites{
+    
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--color_primary);
+   
+}
+
+.sites button{
+    align-items: center;;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    background-color:var(--color_white);
+
+    border: none;
+    color:var(--color_primary);
+    margin-bottom: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-style: none; 
+
+}
+
+.align_sites{
+    width: 33%;
+}
+.crie_flix{
+    
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    
+}
+
+.pet_shop{
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+.olaria_alegria{
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+.view_project{
+    background-color: var(--color_primary);
+    font-size: 25px;
+    color: var(--color_white);
+    text-align: center;
+}
+.view_project h1{
+    margin-top: 100px;
+}
+
+
+
+
+
+    
+    
+
+    
+    
+    
+    
+   
+   
+    
+
+
+
